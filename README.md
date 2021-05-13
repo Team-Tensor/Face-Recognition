@@ -50,7 +50,7 @@ CS419 Course Project: Team Tensor
         ```bash
         drive.mount('/content/gdrive')
         ```
-   * Go the the requested url and authorize the request.
+   * Go to the requested url and authorize the request.
 
     
 3. Importing the CSV file of the features extracted using the VGG16 model:
@@ -62,5 +62,5 @@ CS419 Course Project: Team Tensor
         ```bash
         drive.mount('/content/gdrive')
         ```
-   * Go the the requested url and authorize the request.
+   * Go to the requested url and authorize the request.
         
