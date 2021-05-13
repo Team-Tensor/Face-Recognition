@@ -30,7 +30,7 @@ CS419 Course Project: Team Tensor
 
 ## Quick start
 
-1. Install:
+1. Install :
     
     If running on a local jupyter notebook, with Python 3:
     ```bash
