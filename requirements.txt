@@ -1,0 +1,14 @@
+opencv-python
+numpy
+scipy
+matplotlib
+pandas
+tensorflow
+torch
+pytorchtools
+google.colab
+tqdm
+pillow
+h5py
+keras
+scikit-learn
