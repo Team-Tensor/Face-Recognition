@@ -45,8 +45,9 @@ CS419 Course Project: Team Tensor
 
 2. Importing the CSV file of the unrolled and resized dataset:
    
+   * The original images in .pgm format can be downloaded from Yale website, under _'Cropped Faces'_ or from this [Google Drive Link](https://drive.google.com/drive/folders/1XZiMyPFtS5JCfuz_JVrWYFuW-klKUMhR?usp=sharing)
    * The extraction code can be found in the section: "*Extracting images to arrays and saving to CSV*"
-   * The CSV file is uploaded on drive, link to which is : [https://drive.google.com/file/d/1s4FNr6dPTrhh-mzevQQGeNgE5yjldQmg/view](https://drive.google.com/file/d/1s4FNr6dPTrhh-mzevQQGeNgE5yjldQmg/view)
+   * The CSV file is uploaded on drive, link to which is : [https://drive.google.com/file/d/1s4w-AECsuPkU0VwXuAqtLvhnd3LaBzQE/view?usp=sharing](https://drive.google.com/file/d/1s4w-AECsuPkU0VwXuAqtLvhnd3LaBzQE/view?usp=sharing)
    * Add a shortcut of the file to your own drive
    * Mount your drive to the colab project, found in the section: "*Using pre-extracted images from CSV file*"
         ```bash
@@ -54,11 +55,16 @@ CS419 Course Project: Team Tensor
         ```
    * Go to the requested url and authorize the request.
 
+<!-- 
+3. Alternatively, the dataset stored in CSV format has also been added to this repository using git-lfs.
+   * Clone the git repository to local machine
+   * The full csv file containing the dataset can then be loaded -->
+
     
 3. Importing the CSV file of the features extracted using the VGG16 model:
    
    * The extraction code can be found in the section: "*Generate features using VGG16 model*"
-   * The CSV file is uploaded on drive, link to which is : [https://drive.google.com/file/d/1--pPvar9Jz8vCY5lpsdl6uJC4qFp4fvp/view?usp=sharing](https://drive.google.com/file/d/1--pPvar9Jz8vCY5lpsdl6uJC4qFp4fvp/view?usp=sharing)
+   * The CSV file is uploaded on drive, link to which is : [https://drive.google.com/file/d/1hWuctaRKaiTwL6xVMv1vchG13biInjJA/view?usp=sharing](https://drive.google.com/file/d/1hWuctaRKaiTwL6xVMv1vchG13biInjJA/view?usp=sharing)
    * Add a shortcut of the file to your own drive
    * Mount your drive to the colab project, found in the section: "*Using pre-extracted images from CSV file*"
         ```bash
